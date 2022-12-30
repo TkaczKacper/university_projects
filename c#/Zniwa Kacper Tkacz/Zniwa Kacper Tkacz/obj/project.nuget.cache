@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CbEMDp7xa5TvB77fGsHrJqWy82lusgMr8PvjN9rDsNwgvy/U7hjrebzB65fhk13uTb6GmJCgkXWfCKoSmvY8Lg==",
+  "success": true,
+  "projectFilePath": "D:\\programowanie 2021zima\\Zniwa Kacper Tkacz\\Zniwa Kacper Tkacz\\Zniwa Kacper Tkacz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
