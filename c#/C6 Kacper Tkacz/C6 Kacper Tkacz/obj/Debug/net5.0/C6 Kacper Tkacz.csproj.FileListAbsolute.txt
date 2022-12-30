@@ -1,0 +1,16 @@
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\bin\Debug\net5.0\C6 Kacper Tkacz.exe
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\bin\Debug\net5.0\C6 Kacper Tkacz.deps.json
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\bin\Debug\net5.0\C6 Kacper Tkacz.runtimeconfig.json
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\bin\Debug\net5.0\C6 Kacper Tkacz.runtimeconfig.dev.json
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\bin\Debug\net5.0\C6 Kacper Tkacz.dll
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\bin\Debug\net5.0\ref\C6 Kacper Tkacz.dll
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\bin\Debug\net5.0\C6 Kacper Tkacz.pdb
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\obj\Debug\net5.0\C6 Kacper Tkacz.csprojAssemblyReference.cache
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\obj\Debug\net5.0\C6 Kacper Tkacz.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\obj\Debug\net5.0\C6 Kacper Tkacz.AssemblyInfoInputs.cache
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\obj\Debug\net5.0\C6 Kacper Tkacz.AssemblyInfo.cs
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\obj\Debug\net5.0\C6 Kacper Tkacz.csproj.CoreCompileInputs.cache
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\obj\Debug\net5.0\C6 Kacper Tkacz.dll
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\obj\Debug\net5.0\ref\C6 Kacper Tkacz.dll
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\obj\Debug\net5.0\C6 Kacper Tkacz.pdb
+D:\studia\programowanie 2021zima\C6 Kacper Tkacz\C6 Kacper Tkacz\obj\Debug\net5.0\C6 Kacper Tkacz.genruntimeconfig.cache
