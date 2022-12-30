@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWRGK1Fv1Hquik7OZLDg9g1w8vK9YM+brnN7gWPcePCGn+WgPhnh6I6YmjP5jPfJ9qzIRvKoiEd2CRAdfpr2+Q==",
+  "success": true,
+  "projectFilePath": "D:\\programowanie 2021zima\\Milionerzy Kacper Tkacz\\Milionerzy Kacper Tkacz\\Milionerzy Kacper Tkacz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

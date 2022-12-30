@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Zniwa Kacper Tkacz/1.0.0": {
+        "runtime": {
+          "Zniwa Kacper Tkacz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zniwa Kacper Tkacz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
