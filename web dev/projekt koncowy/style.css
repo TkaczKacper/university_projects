@@ -1,0 +1,78 @@
+body
+{
+    background-color: rgb(41, 41, 41);
+}
+
+.error {
+    color: #a94442; 
+}
+#login_form
+{
+    background-image: url("https://www.pikpng.com/pngl/b/176-1762446_violet-smoke-png-image-fanola-no-yellow-mask.png"); 
+    -webkit-transform: rotate(180deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    border-radius: 5%;
+    border: 1px solid black;
+    background-color: white;
+}
+
+input
+{
+    width: 250px;
+    height: 35px;
+    padding-left: 50px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 10px;
+}
+
+input[type=text]
+{
+    background-image: url("https://cdn-icons-png.flaticon.com/512/561/561127.png?w=360");
+    background-repeat: no-repeat;
+    background-position: 15px;
+    background-size: 20px;
+    
+}
+
+input[type=password]
+{
+    background-image: url("https://www.kindpng.com/picc/m/103-1035365_transparent-padlock-clipart-png-locked-icon-png-download.png");
+    background-repeat: no-repeat;
+    background-position: 15px;
+    background-size: 20px;
+    background-color: rgb(247,247,247)
+}
+#zaloguj
+{
+    margin-top:20px;
+    width: 250px;
+    height: 35px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(178, 179, 187);
+    
+}
+
+#useraccount
+{
+    color: rgb(3, 0, 0);
+    box-sizing: border-box;
+    color: white;
+}
+
+a
+{
+    color: white;
+}

@@ -1,0 +1,12 @@
+# Privileges for `cleaner`@`localhost`
+
+GRANT USAGE ON *.* TO `cleaner`@`localhost` IDENTIFIED BY PASSWORD '*3A9B82AF83F5F5652C59933AC1D16F1DB7C29AF5';
+
+GRANT SELECT (IF_CLEAN, NUMBER, RESERVATION), UPDATE (IF_CLEAN) ON `hotel`.`pokoje` TO `cleaner`@`localhost`;
+
+
+# Privileges for `receptionist`@`localhost`
+
+GRANT USAGE ON *.* TO `receptionist`@`localhost` IDENTIFIED BY PASSWORD '*7BC18C529C8CCBB6B8124827A7365D2E92BBE529';
+
+GRANT SELECT, INSERT (GUEST_NAME, RESERVATION, CHECK_OUT, IF_CLEAN, CHECK_IN), UPDATE ON `hotel`.`pokoje` TO `receptionist`@`localhost`;
