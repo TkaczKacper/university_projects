@@ -1,0 +1,34 @@
+{% extends "main/layout.html" %}
+
+{% block weather_stats %}
+          <div id="weather_container">
+                    {% for i in weather %}
+                              <div style="margin: 5px;">
+                                        {{ i }}
+                              </div>
+                    {% endfor %}
+                    <div id="weather_last_update">
+                              {{ last_update }}
+                    </div>
+          </div>
+{% endblock %}
+
+          {% block body %}
+          <div class="row">
+                    <div class="col-6">
+                              {% if threats %}
+                                        <h1>Aktywne ostrzeżenia:</h1>
+                                        {% for threat in threats %}
+                                                  <div class="alert alert-danger" role="alert">
+                                                            {{ threat }}
+                                                  </div>
+                                        {% endfor %}
+                              {% else %}
+                                        <h1>Aktulnie brak ostrzeżeń.</h1>
+                              {% endif %}
+                    </div>
+                    <div class="col-6">
+
+                    </div>
+          </div>
+{% endblock %}

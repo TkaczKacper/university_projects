@@ -1,0 +1,30 @@
+{% extends "main/layout.html" %}
+
+{% block body %}
+
+          <h2>Rejestracja</h2>
+
+          {% if message %}
+                    <div>{{ message }}</div>
+          {% endif %}
+
+          <form action="{% url 'register' %}" method="post">
+                    {% csrf_token %}
+                    <div class="form-group">
+                              <input class="form-control" autofocus type="text" name="username" placeholder="Nazwa uzytkownika">
+                    </div>
+                    <div class="form-group">
+                              <input class="form-control" type="email" name="email" placeholder="Adres email">
+                    </div>
+                    <div class="form-group">
+                              <input class="form-control" type="password" name="password" placeholder="Haslo">
+                    </div>
+                    <div class="form-group">
+                              <input class="form-control" type="password" name="confirmation" placeholder="Haslo">
+                    </div>
+                    <input class="btn btn-primary" type="submit" value="Zarejestruj sie">
+          </form>
+          
+          Masz juz konto? <a href="{% url 'login' %}">Zaloguj sie tutaj.</a>
+
+{% endblock %}
